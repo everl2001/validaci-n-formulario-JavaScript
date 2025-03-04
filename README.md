@@ -1,12 +1,7 @@
-## Link al curso completo de Javascript en Youtube:
-[VIDEO CURSO GRATIS COMPLETO: JavaScript Desde Cero por Sergie Code](https://youtu.be/N8Xt5rP_DUo)
 
+# Validación de Formulario con Firebase
 
-# Tutorial de Validación de Formulario con Firebase
-
-Link para ver resultado: [FORMULARIO CON FIREBASE FINALIZADO](https://validar-formulario-js.netlify.app/)
-
-Este es un tutorial paso a paso sobre cómo crear una aplicación de validación de formulario utilizando JavaScript y Firebase. La aplicación permite a los usuarios ingresar su nombre, correo electrónico y contraseña, y luego guarda los datos en una base de datos de Firebase. A continuación, se explica el funcionamiento del código JavaScript:
+[FORMULARIO CON FIREBASE FINALIZADO](https://validar-formulario-js.netlify.app/)
 
 ## Configuración de Firebase
 
